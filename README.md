@@ -23,7 +23,7 @@ This project implements a **CrowdFunding Smart Contract** using **Solidity** on 
 - `withdrawFunds(uint _campaignId)`: Lets the campaign owner withdraw funds if the goal is reached.
 - `refund(uint _campaignId)`: Allows contributors to reclaim funds if the goal is not met.
 
-## How to Use
+## How to Use 🧑‍💻
 ### 1. Deploy the Smart Contract
 - Use **Remix IDE** or Hardhat to deploy `CrowdFunding.sol`.
 
